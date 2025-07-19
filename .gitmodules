@@ -1,0 +1,3 @@
+[submodule "interview-assignment-be"]
+	path = interview-assignment-be
+	url = https://github.com/ArasDigitalProducts/interview-assignment-be.git
